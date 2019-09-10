@@ -1,4 +1,4 @@
-command: "cd stock.widget/ && python gatherData.py"
+command: "cd stock-tracker.widget/ && python gatherData.py"
 
 refreshFrequency: 60000
 
